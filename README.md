@@ -13,7 +13,8 @@ Project uses STM32F401RE Nucleo board, NodeMCU v0.9, LCD HD44780 16x2 with I2C c
 Moreover, it uses Firebase.
 
 ### Setting up
-More informations in documentation [PL]
+More informations and screenshots in documentation [PL]:
+https://github.com/Andropogon/RFIDtagboardlogger/blob/master/RFIDtagboardlogger_Kapa%C5%82a_GasienicaJozkowy.pdf
 ### Hardware
 Connect everyting following [schematic](https://i.imgur.com/4nxXy50.png)
 
